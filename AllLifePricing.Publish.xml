@@ -1,0 +1,24 @@
+<publishData>
+  <publishTarget publishUrl="C:\inetpub\wwwroot\AllLifePricing\">
+    <file relUrl="bin/Microsoft.CSharp.dll" publishTime="09/26/2012 03:16:08" />
+    <file relUrl="bin/System.Xml.Linq.dll" publishTime="09/26/2012 03:16:08" />
+    <file relUrl="bin/AllLifePricing.pdb" publishTime="09/10/2015 15:09:16" />
+    <file relUrl="bin/System.Configuration.dll" publishTime="09/26/2012 03:16:08" />
+    <file relUrl="AllLifePricing.AllLifePricing.svc" publishTime="09/10/2015 15:09:16" />
+    <file relUrl="bin/System.Data.dll" publishTime="09/26/2012 03:16:08" />
+    <file relUrl="bin/System.Xml.dll" publishTime="09/26/2012 03:16:08" />
+    <file relUrl="bin/System.dll" publishTime="09/26/2012 03:16:08" />
+    <file relUrl="Web.config" publishTime="02/20/2015 21:19:56" />
+    <file relUrl="bin/AllLifePricing.dll" publishTime="09/10/2015 15:09:16" />
+    <file relUrl="bin/AllLifePricing.dll.config" publishTime="02/20/2015 21:19:56" />
+    <file relUrl="bin/System.Runtime.Serialization.dll" publishTime="09/26/2012 03:16:08" />
+    <file relUrl="bin/System.ServiceModel.dll" publishTime="09/26/2012 03:16:08" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\inetpub\wwwroot\AllLifePrincing\">
+    <file relUrl="AllLifePricing.AllLifePricing.svc" publishTime="01/22/2015 10:53:19" />
+    <file relUrl="bin/AllLifePricing.dll.config" publishTime="01/12/2015 21:49:50" />
+    <file relUrl="bin/AllLifePricing.dll" publishTime="01/22/2015 10:53:19" />
+    <file relUrl="Web.config" publishTime="01/12/2015 21:49:50" />
+    <file relUrl="bin/AllLifePricing.pdb" publishTime="01/22/2015 10:53:19" />
+  </publishTarget>
+</publishData>

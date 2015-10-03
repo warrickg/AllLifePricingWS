@@ -1,0 +1,14 @@
+E:\Dev\AllLife\AllLifePricing\AllLifePricing\bin\Release\AllLifePricing.dll.config
+E:\Dev\AllLife\AllLifePricing\AllLifePricing\bin\Release\AllLifePricing.dll
+E:\Dev\AllLife\AllLifePricing\AllLifePricing\bin\Release\AllLifePricing.pdb
+E:\Dev\AllLife\AllLifePricing\AllLifePricing\obj\Release\AllLifePricing.dll
+E:\Dev\AllLife\AllLifePricing\AllLifePricing\obj\Release\AllLifePricing.pdb
+E:\Dev\AllLife\AllLifePricing\AllLifePricing\bin\Release\Microsoft.CSharp.dll
+E:\Dev\AllLife\AllLifePricing\AllLifePricing\bin\Release\System.Configuration.dll
+E:\Dev\AllLife\AllLifePricing\AllLifePricing\bin\Release\System.Data.dll
+E:\Dev\AllLife\AllLifePricing\AllLifePricing\bin\Release\System.dll
+E:\Dev\AllLife\AllLifePricing\AllLifePricing\bin\Release\System.Runtime.Serialization.dll
+E:\Dev\AllLife\AllLifePricing\AllLifePricing\bin\Release\System.ServiceModel.dll
+E:\Dev\AllLife\AllLifePricing\AllLifePricing\bin\Release\System.Xml.dll
+E:\Dev\AllLife\AllLifePricing\AllLifePricing\bin\Release\System.Xml.Linq.dll
+E:\Dev\AllLife\AllLifePricing\AllLifePricing\obj\Release\AllLifePricing.csprojResolveAssemblyReference.cache
